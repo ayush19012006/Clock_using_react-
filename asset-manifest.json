@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Clock_using_react-/static/css/main.0c516243.css",
+    "main.js": "/Clock_using_react-/static/js/main.e18ca034.js",
+    "index.html": "/Clock_using_react-/index.html",
+    "main.0c516243.css.map": "/Clock_using_react-/static/css/main.0c516243.css.map",
+    "main.e18ca034.js.map": "/Clock_using_react-/static/js/main.e18ca034.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c516243.css",
+    "static/js/main.e18ca034.js"
+  ]
+}
